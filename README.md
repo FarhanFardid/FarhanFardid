@@ -1,10 +1,11 @@
-### Hi there 👋, I am Farhan Fardid
-#### CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
+
+# Hi there 👋, I am Farhan Fardid
+#### CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer
 
 I am Farhan Fardid, a highly skilled Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Developer with expertise in various web development technologies and tools. Currently pursuing my Masters in Computer Science and Engineering at Daffodil International University, I am passionate about creating dynamic and user-friendly web applications.
 
-With a solid foundation in HTML, CSS, and JavaScript, I excel in developing responsive and visually appealing web interfaces. I have hands-on experience in React, Node.js, MongoDB and Express.js, allowing me to build robust and scalable applications. Additionally, I possess proficiency in CSS frameworks such as Tailwind CSS, and Bootstrap, and libraries like Daisy UI and Material UI, enhancing my ability to create stunning designs.
+With a solid foundation in HTML, CSS, and JavaScript, I excel in developing responsive and visually appealing web interfaces. I have hands-on experience in React, Node.js, MongoDB and Express.js, allowing me to build robust and scalable applications. Additionally, I possess proficiency in CSS frameworks such as Tailwind CSS, and Bootstrap, and React component libraries like Daisy UI and Material UI, enhancing my ability to create stunning designs.
 
 Skills: HTML | CSS | JavaScript | React JS | Node | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | Material UI | Daisy UI | Firebase | JWT | CORS | Chrome Dev Tool | REST API | React Router DOM | Git | GitHub | Netlify | Vercel 
 
