@@ -1,6 +1,7 @@
-### Hi there 👋, I am Farhan Fardid
-#### CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
+# Hi there 👋, My Name is Farhan Fardid
+#### CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer
+
 
 I am Farhan Fardid, a highly skilled Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Developer with expertise in various web development technologies and tools. Currently pursuing my Masters in Computer Science and Engineering at Daffodil International University, I am passionate about creating dynamic and user-friendly web applications.
 
@@ -28,11 +29,7 @@ Skills: HTML | CSS | JavaScript | React JS | Node | Express.js | Bootstrap | Tai
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanFardid&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FarhanFardid)  
-
 ![GitHub metrics](https://metrics.lecoq.io/FarhanFardid)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FarhanFardid)  
-
-![Profile views](https://gpvc.arturio.dev/FarhanFardid)  
 
