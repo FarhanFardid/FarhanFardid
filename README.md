@@ -29,7 +29,7 @@ Skills: HTML | CSS | JavaScript | React JS | Node | Express.js | Bootstrap | Tai
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanFardid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanFardid&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanFardid&show_icons=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/FarhanFardid)  
 
