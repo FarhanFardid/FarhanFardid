@@ -31,7 +31,6 @@ Skills: HTML | CSS | JavaScript | React JS | React Router DOM | Node | Express.j
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanFardid&show_icons=true&theme=radical)  
 
-![GitHub metrics](https://metrics.lecoq.io/FarhanFardid)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FarhanFardid)  
 
