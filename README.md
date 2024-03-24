@@ -1,15 +1,15 @@
 
 # Hi there 👋, My Name is Farhan Fardid
-#### CSE Graduate || Full Stack web Developer || MERN Stack Developer || Front End Developer
+#### CSE Graduate || Full Stack web Developer || MERN Stack Developer || Front End Developer || React Developer
 
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
 
 
-I am Farhan Fardid, a highly skilled Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Developer with expertise in various web development technologies and tools. Currently pursuing my Masters in Computer Science and Engineering at Daffodil International University, I am passionate about creating dynamic and user-friendly web applications.
+I am Farhan Fardid, a highly skilled Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Developer with expertise in various web development technologies and tools. Recently I have completed my Masters in Computer Science and Engineering from Daffodil International University, I am passionate about creating dynamic and user-friendly web applications.
 
 With a solid foundation in HTML, CSS, and JavaScript, I excel in developing responsive and visually appealing web interfaces. I have hands-on experience in React, Node.js, MongoDB and Express.js, allowing me to build robust and scalable applications. Additionally, I possess proficiency in CSS frameworks such as Tailwind CSS, and Bootstrap, and React component libraries like Daisy UI and Material UI, enhancing my ability to create stunning designs.
 
-Skills: HTML | CSS | JavaScript | React JS | Node | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | Material UI | Daisy UI | Firebase | JWT | CORS | Chrome Dev Tool | REST API | React Router DOM | Git | GitHub | Netlify | Vercel 
+Skills: HTML | CSS | JavaScript | React JS | React Router DOM | Node | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tool | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite 
 
 - 🔭 I’m currently working on New Web Project 
 - 🌱 I’m currently learning JavaScirpt 
