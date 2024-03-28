@@ -1,6 +1,6 @@
 
 # Hi there 👋, My Name is Farhan Fardid
-#### CSE Graduate || Full Stack web Developer || MERN Stack Developer || Front End Developer || React Developer
+#### CSE Graduate || Full Stack web Developer || MERN Stack Developer || Frontend Developer || React Developer
 
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
 
