@@ -6,14 +6,17 @@
 
 
 I'm Farhan Fardid, a Computer Science graduate, specializing in Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Development. I thrive on utilizing a range of web development tools and technologies to craft dynamic and intuitive web applications.
+
 My expertise lies in HTML, CSS, and JavaScript, allowing me to produce responsive and visually captivating web interfaces. With hands-on experience in React, Node.js, MongoDB, and Express.js, I've developed a knack for building robust and scalable applications. Furthermore, my proficiency extends to CSS frameworks like Tailwind CSS, Bootstrap, and libraries such as Daisy UI and Material UI, empowering me to create visually stunning designs.
+
 I'm adept at utilizing version control systems like Git and GitHub, facilitating seamless collaboration and efficient code management. Additionally, I'm well-versed in a plethora of development tools including Chrome DevTools, Vercel, Netlify, Figma, and Firebase, which enhance my productivity throughout the development lifecycle.
+
 My academic journey has provided me with a strong foundation in the MERN stack, and I'm committed to continuous learning to stay abreast of emerging technologies and industry trends.
 If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
-Skills: HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
+### Skills: HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
 
-- 🔭 I’m currently working on New Web Project 
+- 🔭 I’m currently working on Web Project 
 - 🌱 I’m currently learning JavaScirpt 
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology and solve real-world problems 
 - 🤔 I’m looking for help with showcasing my passion for coding and collaborating on meaningful projects to make a positive impact in the tech community 
