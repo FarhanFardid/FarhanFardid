@@ -14,7 +14,7 @@ I'm adept at utilizing version control systems like Git and GitHub, facilitating
 My academic journey has provided me with a strong foundation in the MERN stack, and I'm committed to continuous learning to stay abreast of emerging technologies and industry trends.
 If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
-### Skills: HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
+#### Skills: HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
 
 - 🔭 I’m currently working on Web Project 
 - 🌱 I’m currently learning JavaScirpt 
