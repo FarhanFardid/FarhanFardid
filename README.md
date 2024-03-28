@@ -5,11 +5,13 @@
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
 
 
-I am Farhan Fardid, a highly skilled Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Developer with expertise in various web development technologies and tools. Recently I have completed my Masters in Computer Science and Engineering from Daffodil International University, I am passionate about creating dynamic and user-friendly web applications.
+I'm Farhan Fardid, a Computer Science graduate, specializing in Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Development. I thrive on utilizing a range of web development tools and technologies to craft dynamic and intuitive web applications.
+My expertise lies in HTML, CSS, and JavaScript, allowing me to produce responsive and visually captivating web interfaces. With hands-on experience in React, Node.js, MongoDB, and Express.js, I've developed a knack for building robust and scalable applications. Furthermore, my proficiency extends to CSS frameworks like Tailwind CSS, Bootstrap, and libraries such as Daisy UI and Material UI, empowering me to create visually stunning designs.
+I'm adept at utilizing version control systems like Git and GitHub, facilitating seamless collaboration and efficient code management. Additionally, I'm well-versed in a plethora of development tools including Chrome DevTools, Vercel, Netlify, Figma, and Firebase, which enhance my productivity throughout the development lifecycle.
+My academic journey has provided me with a strong foundation in the MERN stack, and I'm committed to continuous learning to stay abreast of emerging technologies and industry trends.
+If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
-With a solid foundation in HTML, CSS, and JavaScript, I excel in developing responsive and visually appealing web interfaces. I have hands-on experience in React, Node.js, MongoDB and Express.js, allowing me to build robust and scalable applications. Additionally, I possess proficiency in CSS frameworks such as Tailwind CSS, and Bootstrap, and React component libraries like Daisy UI and Material UI, enhancing my ability to create stunning designs.
-
-Skills: HTML | CSS | JavaScript | React JS | React Router DOM | Node | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tool | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite 
+Skills: HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
 
 - 🔭 I’m currently working on New Web Project 
 - 🌱 I’m currently learning JavaScirpt 
