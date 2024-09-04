@@ -4,7 +4,7 @@
 
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
 
-## 🚀 About Me
+### 🚀 About Me
 I'm Farhan Fardid, a Computer Science graduate, specializing in Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Development. I thrive on utilizing a range of web development tools and technologies to craft dynamic and intuitive web applications.
 
 My expertise lies in HTML, CSS, and JavaScript, allowing me to produce responsive and visually captivating web interfaces. With hands-on experience in React, Node.js, MongoDB, and Express.js, I've developed a knack for building robust and scalable applications. Furthermore, my proficiency extends to CSS frameworks like Tailwind CSS, Bootstrap, and libraries such as Daisy UI and Material UI, empowering me to create visually stunning designs.
@@ -14,18 +14,18 @@ I'm adept at utilizing version control systems like Git and GitHub, facilitating
 My academic journey has provided me with a strong foundation in the MERN stack, and I'm committed to continuous learning to stay abreast of emerging technologies and industry trends.
 If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
-## 🛠  Tech Stack
-### **Core Technologies:** 
+### 🛠  Tech Stack
+## **Core Technologies:** 
 HTML5, CSS3, JavaScript
 
-### **Frameworks & Libraries:** 
+## **Frameworks & Libraries:** 
 ***Frontend:*** 
 React, React Router DOM, React Bootstrap, Material UI, Daisy UI, FlowBite, React Awesome Components, React Hook Forms, TanStack Query
 
 ***Styling:*** 
 Tailwind CSS, Bootstrap
 
-### **Server Side:**
+## **Server Side:**
 
 ***Backend:***
 Node.js, Express.js
@@ -36,7 +36,7 @@ JWT, CORS
 ***Database:***
 MongoDB, MongoDB Atlas
 
-### **Tools & Platforms:** 
+## **Tools & Platforms:** 
 
 ***Build Tools:*** Vite
 
@@ -61,7 +61,7 @@ Axios, JSON, Firebase, Chrome Dev Tools, Figma
 - 😄 Pronouns: He/ Him 
 - ⚡ Fun fact: Besides coding, I have a passion for playing cricket and travelling around. 
 
-## 🔗 Links
+### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farhanfardid.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-fardid-3334a3278//)
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhanFardid)
