@@ -52,6 +52,7 @@ REST API
 ***Other Tools:***
 Axios, JSON, Firebase, Chrome Dev Tools, Figma
 
+
 - 🔭 I’m currently working on Agro Based E-Commerce Project.
 - 🧠 I'm currently learning JavaScirpt & React.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology and solve real-world problems 
@@ -59,7 +60,8 @@ Axios, JSON, Firebase, Chrome Dev Tools, Figma
 - 💬 Ask me about Web development | JavaScript | React 
 - 📫 How to reach me: Email | LinkedIn| Facebook | WhatsApp  
 - 😄 Pronouns: He/ Him 
-- ⚡ Fun fact: Besides coding, I have a passion for playing cricket and travelling around. 
+- ⚡ Fun fact: Besides coding, I have a passion for playing cricket and travelling around.
+  
 
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farhanfardid.netlify.app/)
