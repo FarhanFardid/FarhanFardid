@@ -15,9 +15,11 @@ My academic journey has provided me with a strong foundation in the MERN stack, 
 If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
 ## 🛠  Tech Stack
-**Core Technologies:** HTML5, CSS3, JavaScript
+### **Core Technologies:** 
+HTML5, CSS3, JavaScript
 
-**Frameworks & Libraries:** React, React Router DOM, React Bootstrap, Material UI, Daisy UI, FlowBite, React Awesome Components, React Hook Forms, TanStack Query
+### **Frameworks & Libraries:** 
+React, React Router DOM, React Bootstrap, Material UI, Daisy UI, FlowBite, React Awesome Components, React Hook Forms, TanStack Query
 
 **Styling:** Tailwind CSS, Bootstrap
 
