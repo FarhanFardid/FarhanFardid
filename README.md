@@ -19,9 +19,11 @@ If you're in search of a dedicated and adaptable Full Stack MERN Web Developer w
 HTML5, CSS3, JavaScript
 
 ### **Frameworks & Libraries:** 
+***Frontend:*** 
 React, React Router DOM, React Bootstrap, Material UI, Daisy UI, FlowBite, React Awesome Components, React Hook Forms, TanStack Query
 
-**Styling:** Tailwind CSS, Bootstrap
+***Styling:*** 
+Tailwind CSS, Bootstrap
 
 ### **Server Side:**
 
