@@ -14,8 +14,39 @@ I'm adept at utilizing version control systems like Git and GitHub, facilitating
 My academic journey has provided me with a strong foundation in the MERN stack, and I'm committed to continuous learning to stay abreast of emerging technologies and industry trends.
 If you're in search of a dedicated and adaptable Full Stack MERN Web Developer who is passionate about delivering exceptional user experiences, I'm excited to bring my skills and enthusiasm to your team.
 
-## 🛠 Skills
- HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
+## 🛠  Tech Stack
+**Core Technologies:** HTML5, CSS3, JavaScript
+
+**Frameworks & Libraries:** React, React Router DOM, React Bootstrap, Material UI, Daisy UI, FlowBite, React Awesome Components, React Hook Forms, TanStack Query
+
+**Styling:** Tailwind CSS, Bootstrap
+
+**Server Side:** 
+
+***Backend:***
+Node.js, Express.js
+
+***Security:***
+JWT, CORS
+
+***Database:***
+MongoDB, MongoDB Atlas
+
+**Tools & Platforms:** 
+
+***Build Tools:*** Vite
+
+***Version Control:***
+Git, GitHub
+
+***Deployment:***
+Netlify, Vercel, Surge
+
+***APIs:***
+REST API
+
+***Other Tools:***
+Axios, JSON, Firebase, Chrome Dev Tools, Figma
 
 - 🔭 I’m currently working on Agro Based E-Commerce Project.
 - 🧠 I'm currently learning JavaScirpt & React.
