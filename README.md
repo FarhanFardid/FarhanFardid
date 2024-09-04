@@ -18,7 +18,7 @@ If you're in search of a dedicated and adaptable Full Stack MERN Web Developer w
  HTML5 | CSS3 | JavaScript | React | React Router DOM | Node.js | Express.js | Bootstrap | Tailwind CSS | MongoDB | React Bootstrap | MongoDB Atlas | Material UI | Daisy UI | FlowBite | Firebase | JWT | CORS | Chrome Dev Tools | REST API | Git | GitHub | Netlify | Vercel | React Awesome Components | React Hook Forms | TanStak Query | Axios | Vite | Surge | JSON | Figma
 
 - 🔭 I’m currently working on Agro Based E-Commerce Project.
-- 🌱 I’m currently learning JavaScirpt & React.
+- 🧠 I'm currently learning JavaScirpt & React.
 - 👯 I’m looking to collaborate on innovative projects that push the boundaries of technology and solve real-world problems 
 - 🤔 I’m looking for help with showcasing my passion for coding and collaborating on meaningful projects to make a positive impact in the tech community 
 - 💬 Ask me about Web development | JavaScript | React 
