@@ -26,6 +26,10 @@ If you're in search of a dedicated and adaptable Full Stack MERN Web Developer w
 - 😄 Pronouns: He/ Him 
 - ⚡ Fun fact: Besides coding, I have a passion for playing cricket and travelling around. 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://www.linkedin.com/in/farhan-fardid-3334a3278//)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhanFardid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/farhan-fardid-3334a3278//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/farhan.fardid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://64a300768cd57a2daacb1c0b--scintillating-otter-c5427b.netlify.app/)  
 
