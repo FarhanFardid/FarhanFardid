@@ -21,7 +21,7 @@ If you're in search of a dedicated and adaptable Full Stack MERN Web Developer w
 
 **Styling:** Tailwind CSS, Bootstrap
 
-# **Server Side:**
+### **Server Side:**
 
 ***Backend:***
 Node.js, Express.js
@@ -32,7 +32,7 @@ JWT, CORS
 ***Database:***
 MongoDB, MongoDB Atlas
 
-**Tools & Platforms:** 
+### **Tools & Platforms:** 
 
 ***Build Tools:*** Vite
 
