@@ -4,7 +4,7 @@
 
 ![CSE Graduates || Full Stack web Developer || MERN Stack Developer || Front End Developer](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)
 
-
+## 🚀 About Me
 I'm Farhan Fardid, a Computer Science graduate, specializing in Full Stack MERN (MongoDB, Express.js, React, Node.js) Web Development. I thrive on utilizing a range of web development tools and technologies to craft dynamic and intuitive web applications.
 
 My expertise lies in HTML, CSS, and JavaScript, allowing me to produce responsive and visually captivating web interfaces. With hands-on experience in React, Node.js, MongoDB, and Express.js, I've developed a knack for building robust and scalable applications. Furthermore, my proficiency extends to CSS frameworks like Tailwind CSS, Bootstrap, and libraries such as Daisy UI and Material UI, empowering me to create visually stunning designs.
