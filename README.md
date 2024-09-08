@@ -81,7 +81,6 @@ Axios, JSON, Firebase, Chrome Dev Tools, Figma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanFardid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarhanFardid&show_icons=true&theme=radical)  
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FarhanFardid)  
